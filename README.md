@@ -7,6 +7,7 @@ Requirements:
             Numpy
             PIL
             joblib from sklearn.externals
+
 Usage:
     Transfer all the files to your webserver.
     Make sure all the requirements are installed in the python path of the server.
